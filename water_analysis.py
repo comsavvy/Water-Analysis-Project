@@ -105,7 +105,7 @@ class Data:
         
         """ 
         tap= []
-        unique_tap= sorted(self.data['Filter_name'].unique())
+        unique_tap= self.data['Filter_name'].unique()
         tap_length= len(unique_tap)
         for i in range(1, tap_length+1):
             tap.append(self.data[self.data['Filter_name'] == 'Tap '+ str(i)])
