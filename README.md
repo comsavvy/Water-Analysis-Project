@@ -1,4 +1,4 @@
-# Water-Analysis-Project
-<h2> Project on water analysis </h2>
-<p> This analysis require a lot of methods which are grouped in a class of Data.</p>
-<em> Help method can be call on the Class to show the available methods</em>
+# Project on water analysis
+<p>This analysis is about measuring how water is being use in each location mentioned in the project and how water flow in each tap. </p>
+<p>All the methods used in this project were defined inside a class call Data</p>
+<em> Help method can be call to show the available methods that can be use in the project</em>
